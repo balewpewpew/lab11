@@ -31,4 +31,5 @@ int main(){
         grade = "W";
     }
     cout << "You will get " << grade << " in this 261102.";
+    return 0;
 }
